@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>| Zipperer | Zpp |</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+</head>
+<body>
+    <div class="background">
+        <header>
+        <div class="logo">
+        </div>
+           <div class="cabeçalho-link">
+            <li>
+                <a href="Inicio.html">Início</a>
+            </li>    
+            <li>
+                <a href="Quemsomos.html">Quem Somos</a>
+            </li>
+            <li>
+                <a href="nossacampanha.html">Nossas Redes</a>
+            </li>
+            <li>
+                <a href="nossahistoria.html">Nossa História</a>
+            </li>
+            <li>
+                <a href="falecomagente.html">Fale com a gente</a>
+            </li>
+            
+            <button>Nosso contato</button>
+            <div class="background-image"></div>
+        </div>
+    </header>
+        <div class="container-text">
+        <div class="text">
+            <h1> Quer Falar com a Gente?</h1>
+             <br>   
+            <p>Chame a gente em nosso whatsapp que uma de nossas vendedoras irá lhe atender prontamente.</p>
+            <br>
+           <a href="https://api.whatsapp.com/send/?phone=554291233249&text&type=phone_number&app_absent=0">
+            <img alt="whatsapp-logo-light-green-png-0" fetchpriority="high" src="https://static.wixstatic.com/media/c9b7f6_19cd9a0c1dfc49aa93dc42079a5efb05~mv2.png/v1/fill/w_42,h_42,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c9b7f6_19cd9a0c1dfc49aa93dc42079a5efb05~mv2.png" style="width: 42px; height: 42px; object-fit: cover;">
+
+                <footer>
+                <div class="redes-social">
+                    <a href="https://www.instagram.com/deansoficial/"><i class="fa-brands fa-instagram"> | Deans |</i></a>
+                    <a href="https://www.instagram.com/zipperer.zpp/"><i class="fa-brands fa-instagram"> | Zpp |</i></a>
+                </footer>
+            </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
