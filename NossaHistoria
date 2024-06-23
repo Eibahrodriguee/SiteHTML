@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>| Zipperer | Zpp |</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+</head>
+<body>
+    <div class="background">
+        <header>
+        <div class="logo">
+        </div>
+           <div class="cabeçalho-link">
+            <li>
+                <a href="Inicio.html">Início</a>
+            </li>    
+            <li>
+                <a href="Quemsomos.html">Quem Somos</a>
+            </li>
+            <li>
+                <a href="nossacampanha.html">Nossas Redes</a>
+            </li>
+            <li>
+                <a href="nossahistoria.html">Nossa História</a>
+            </li>
+            <li>
+                <a href="falecomagente.html">Fale com a gente</a>
+            </li>
+            
+            <button>Nosso contato</button>
+            <div class="background-image"></div>
+        </div>
+    </header>
+        <div class="container-text">
+        <div class="text">
+                <h1>A <i>História da Zipperer</i></h1>
+                <br>
+<p>Inaugurada em julho de 1979 na Avenida Manoel Ribas, 150, em União da Vitória, e primeiramente aberta como uma filial de outra loja do mesmo nome e na mesma avenida, a Zipperer traçou ao longo desses 40 anos, uma identidade e jornada próprias que revolucionaram o comércio local.</p>
+<p>Já em 1985, com seis anos de vida, a loja foi assumida pelo então casal Carmen Lúcia Zipperer e Carlos Alberto Jung, que resgataram a situação financeira da empresa e trouxeram produtos nunca vistos na região.</p>
+<p>Anteriormente, a loja vendia tecidos, produtos de cama, mesa e banho, enxoval, roupas de atacado e outros utensílios. Foi com o então casal que a loja começou a oferecer roupas de marcas renomadas, como Dudalina, Ellus, Levi's e Guess.</p>
+<p>Inclusive, a Ellus, marca que já tem mais de 45 anos de história, é parceira da Zipperer há mais de 26 anos – desde 16 de março de 1993 especificamente – e foi ela a responsável por abrir um leque enorme de oportunidades para o comércio de marcas de revista nas cidades gêmeas. </p>
+<p>Em 1994 a loja cresceu e se mudou para um imóvel próprio na <i>Rua Professor Cleto, nº 51</i>, endereço que é a sede da Zipperer até hoje.</p>
+
+<p>Em 1997, o casal Carmen e Juco (apelido de Carlos Alberto) adquiriu a totalidade das cotas da empresa, quando antes tinham apenas metade.</p>
+<p>Desde então a Zipperer aumentou, ganhou renome na região e nunca parou de se reinventar.</p>
+<p>Mesmo com a separação do casal em 2002, a Zipperer continuou sua jornada com a liderança de Carmen e hoje é referência no mercado com marcas de moda nacional e internacional exclusivas em toda a região. </p>
+<p>Durante a crise econômica que assolou o país em 2014, entraram na administração da Zipperer o casal <i>Marcelo Rosário da Silva e Caroline Jung (filha de Juco e Carmen)</i>, que trouxeram uma nova identidade para a loja e selaram a independência da Zipperer em relação às outras que dividiam o mesmo nome.</p>
+<p>Desde então, investimentos em criatividade, inovação, consciência social, qualificação e engajamento de equipe e trabalho sério no atendimento se transformaram em alguns dos principais alicerces que regem a Zpp e Deans Comércio Varejista EIRELI.</p>
+
+<p>Foi um belo e honroso caminho percorrido nesses mais de 40 anos. O trabalho continua, a Zipperer continua e a história está apenas começando.</p>
+<p>Na celebração de aniversário de 40 anos e início da quinta década, apresentamos uma loja e uma marca rejuvenescida, repaginada e reinventada. Nossa estrutura conta com mais de 600m², e mais de 20 das marcas mais famosas do mercado de moda, com lançamentos de produtos simultâneos com todo o Brasil.</p>
+<p>Nossa nova logomarca é registrada pelo Instituto Nacional de Propriedade Industrial e representa esse novo capítulo de modernidade, sofisticação e inovação.</p>
+<p>Em 2020, houve a saída definitiva da fundadora Carmen da sociedade da loja e agora a Zpp continua seus trabalhos com o Marcelo no comando solo, continuando todos os seus projetos até aqui iniciados e idealizando novos. </p>
+<p>Somos uma das únicas lojas do Paraná a oferecer a marca <i>Adidas Originals</i> com parceria direta com a fábrica numa das melhores categorias fashion. Além de possuirmos a melhor classificação como lojista multimarcas da Vans.</p>
+<p>Já fomos citados em convenções da Ellus e da Under Armour como exemplo de loja e contamos com uma parceria muito próxima com todos os nossos representantes.</p>
+<p>Toda a nossa equipe recebe treinamentos periódicos, são incentivados com programas internos para buscar cada vez mais conhecimento no ramo e melhoria de vida pessoal e são tratados como membros, colegas e pessoas essenciais em todas as conquistas até hoje alcançadas. </p>
+<p>Por fim, também contamos com uma loja virtual parceira, a Deans, uma loja paralela fundada pelo proprietário Marcelo, com uma pegada urbana, jovem e cheia de atitude que pretende conquistar o mercado a nível nacional. </p>
+
+                <footer>
+                <div class="redes-social">
+                    <a href="https://www.instagram.com/deansoficial/"><i class="fa-brands fa-instagram"> | Deans |</i></a>
+                    <a href="https://www.instagram.com/zipperer.zpp/"><i class="fa-brands fa-instagram"> | Zpp |</i></a>
+                </footer>
+            </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
